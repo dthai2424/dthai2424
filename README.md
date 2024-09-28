@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning in Sai Gon university
 
 - <div id="header" align="center">
+  You can reach me at:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
    <div id="badges" style="display:grid; grid-template-columns:3; gap:10px;">
