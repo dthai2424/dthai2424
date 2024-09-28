@@ -23,4 +23,5 @@
 ---
 
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dthai2424)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dthai2424&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
