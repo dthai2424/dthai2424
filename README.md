@@ -24,4 +24,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dthai2424&theme=dark&background=000000)](https://git.io/streak-stats)
+<p></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dthai2424&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
