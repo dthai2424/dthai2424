@@ -1,6 +1,6 @@
 ### :woman_technologist: About Me :
-- 👋 Hi, I’m @dthai2424
-- 👀 I’m interested in new technologies
+- 👋 Hi, I'm Duy Thai
+- 👀 I’m interested in new technologies and competitive programming
 - 🌱 I’m currently learning in Sai Gon university
 
 - <div id="header" align="center">
