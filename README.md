@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in Sai Gon university
 - 📫 You can reach me on <br>  +LinkedIn: linkedin.com/in/221973289 <br>  +Facebook: facebook.com/profile.php?id=100093424309204
    
-   <div id="badges">
+   <div id="badges" style="display:grid; grid-template-columns:3; gap:10px;">
   <a href="[linkedin.com/in/221973289](https://www.linkedin.com/in/221973289/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
