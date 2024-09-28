@@ -1,3 +1,4 @@
+### :woman_technologist: About Me :
 - 👋 Hi, I’m @dthai2424
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning in Sai Gon university
