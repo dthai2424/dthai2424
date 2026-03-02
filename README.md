@@ -1,7 +1,7 @@
 ### :man_technologist: About Me :
 - 👋 Hi, I'm **Duy Thai**
 - 👀 I’m interested in new technologies and competitive programming
-- 🌱 I’m currently a senior at **Sai Gon University (SGU)**
+- 🌱 I’m currently a senior year student at **Sai Gon University (SGU)**
 
 ---
 
