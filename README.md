@@ -5,15 +5,34 @@
 
 ---
 
+### 🛠 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
 ### 🏆 Competitive Programming Achievements
-- **2025**: Giải Ba - **Olympic Tin học Sinh viên Việt Nam**
+- **2026**: Leetcode - **Knight** 
+- **2025**: Giải Ba - **Olympic Tin học Sinh viên Việt Nam** (Khối Chuyên Tin)
 - **2025**: Giải Khuyến khích - **ICPC Vietnam National Programming Contest**
 - **2025**: Honorable Mention - **ICPC Asia Pacific Regional Contest**
-
-
 - **2024**: Honorable Mention - **ICPC Vietnam National Programming Contest**
 - **2024**: Honorable Mention - **ICPC Asia Pacific Regional Contest**
 - **2024**: Giải Khuyến khích - **Olympic Tin học Sinh viên Việt Nam**
+
+---
+
+### 📁 Featured Projects
+
+- **[MediBook](Link_thư_mục_github_của_bạn)**
+  - Hệ thống đặt lịch khám bệnh trực tuyến (Đồ án đại học).
+  - **Tech Stack:** Java, Spring Boot (Backend) | React, Tailwind CSS (Frontend).
+
+- **[CP-Library](Link_thư_mục_github_của_bạn)** *(Gợi ý thêm nếu bạn có)*
+  - Thư viện cá nhân triển khai các thuật toán và cấu trúc dữ liệu nâng cao (Segment Tree, DSU, Tarjan...) bằng C++ phục vụ thi đấu ICPC.
 
 ---
 
