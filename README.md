@@ -10,8 +10,9 @@
 - **2025**: Giải Khuyến khích - **ICPC Vietnam National Programming Contest**
 - **2025**: Honorable Mention - **ICPC Asia Pacific Regional Contest**
 
-- **2024**: Honorable Mention - **ICPC Asia Pacific Regional Contest**
+
 - **2024**: Honorable Mention - **ICPC Vietnam National Programming Contest**
+- **2024**: Honorable Mention - **ICPC Asia Pacific Regional Contest**
 - **2024**: Giải Khuyến khích - **Olympic Tin học Sinh viên Việt Nam**
 
 ---
