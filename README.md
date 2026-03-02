@@ -1,4 +1,4 @@
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 - 👋 Hi, I'm Duy Thai
 - 👀 I’m interested in new technologies and competitive programming
 - 🌱 I’m currently learning in Sai Gon university
