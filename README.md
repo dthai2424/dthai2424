@@ -23,14 +23,6 @@
 - **2024**: Honorable Mention - **ICPC Asia Pacific Regional Contest**
 - **2024**: Giải Khuyến khích - **Olympic Tin học Sinh viên Việt Nam**
 
----
-
-### 📁 Featured Projects
-
-- **[MediBook](Link_thư_mục_github_của_bạn)**
-  - Hệ thống đặt lịch khám bệnh trực tuyến.
-  - **Tech Stack:** Java, Spring Boot (Backend) | React, Tailwind CSS (Frontend).
-
 
 
 ---
