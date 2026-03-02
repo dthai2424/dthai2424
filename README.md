@@ -28,11 +28,10 @@
 ### 📁 Featured Projects
 
 - **[MediBook](Link_thư_mục_github_của_bạn)**
-  - Hệ thống đặt lịch khám bệnh trực tuyến (Đồ án đại học).
+  - Hệ thống đặt lịch khám bệnh trực tuyến.
   - **Tech Stack:** Java, Spring Boot (Backend) | React, Tailwind CSS (Frontend).
 
-- **[CP-Library](Link_thư_mục_github_của_bạn)** *(Gợi ý thêm nếu bạn có)*
-  - Thư viện cá nhân triển khai các thuật toán và cấu trúc dữ liệu nâng cao (Segment Tree, DSU, Tarjan...) bằng C++ phục vụ thi đấu ICPC.
+
 
 ---
 
